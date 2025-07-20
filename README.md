@@ -1,6 +1,5 @@
-# 30-Day Machine Learning Intensive 🚀
+# 30-Days Machine Learning 🚀
 
-## 📌 Introduction
 A 30-day hands-on machine learning journey covering fundamental concepts to advanced techniques. Each day focuses on implementing different ML algorithms on real-world datasets—from regression and classification to deep learning and reinforcement learning.
 
 ## 🛠️ Tools & Libraries
