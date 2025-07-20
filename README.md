@@ -61,7 +61,7 @@ Comming Soon...
 
 ---
 
-## 🤝 Connect  
+## 🤝Lets Connect  
 Let's collaborate on ML projects!  
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:sangameshmkuri94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangamesh_M_Kuri-blue)](https://www.linkedin.com/in/sangamesh-m-kuri-034682366)  
