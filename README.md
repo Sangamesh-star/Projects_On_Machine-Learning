@@ -1,4 +1,4 @@
-# 30-Days Machine Learning 🚀
+# 30-Days Machine Learning🤖
 
 A 30-day hands-on machine learning journey covering fundamental concepts to advanced techniques. Each day focuses on implementing different ML algorithms on real-world datasets—from regression and classification to deep learning and reinforcement learning.
 
