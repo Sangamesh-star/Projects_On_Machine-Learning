@@ -70,4 +70,4 @@ Let's collaborate on ML projects!
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Sangamesh-star)  
 
 ---
-Made with ❤️ by **Sangamesh M Kuri** 😊  
+Made with ❤️ by **Sangamesh M Kuri**  
