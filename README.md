@@ -64,7 +64,7 @@ Comming Soon...
 ## 🤝 Connect  
 Let's collaborate on ML projects!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangamesh_M_Kuri-blue)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangamesh_M_Kuri-blue)](https://www.linkedin.com/in/sangamesh-m-kuri-034682366)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/yourusername)  
 
 ---
