@@ -65,6 +65,7 @@ Comming Soon...
 Let's collaborate on ML projects!  
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:sangameshmkuri94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangamesh_M_Kuri-blue)](https://www.linkedin.com/in/sangamesh-m-kuri-034682366)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Sangamesh-star)  
 
 ---
