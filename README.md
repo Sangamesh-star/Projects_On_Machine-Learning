@@ -49,10 +49,10 @@ A 30-day hands-on machine learning journey covering fundamental concepts to adva
 ---
 
 ## ✨ Highlights
-- Implemented **30+ algorithms** across ML paradigms  
-- Covered **Supervised/Unsupervised/RL** with real datasets  
-- Built **5+ industry-relevant systems** (Recommendation, Market Basket, etc.)  
-- Transitioned from **traditional ML → Deep Learning → RL**  
+- ✅ Implemented **30+ algorithms** across ML paradigms  
+- ✅ Covered **Supervised/Unsupervised/RL** with real datasets  
+- ✅ Built **5+ industry-relevant systems** (Recommendation, Market Basket, etc.)  
+- ✅ Transitioned from **traditional ML → Deep Learning → RL**  
 
 ## 🖼️ Demo and Screenshots
 
